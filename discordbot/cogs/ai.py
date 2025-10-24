@@ -6,7 +6,7 @@ import google.generativeai as genai
 
 # LÜTFEN DİKKAT:
 # Google AI Studio'dan, YENİ BİR PROJEDE oluşturduğun API anahtarını buraya yapıştır.
-GEMINI_API_KEY = "AIzaSyD9Vl0boZQCW4Ow5l5cMfxxTxupNCHy_LQ"
+GEMINI_API_KEY = ""
 
 class AI(commands.Cog):
     def __init__(self, bot):
